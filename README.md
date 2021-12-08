@@ -1,2 +1,2 @@
-# A-kKaynakTeknolojiKamp-
+# OpenSourceTechCamp
 Shell Temel komutlar için ödev
