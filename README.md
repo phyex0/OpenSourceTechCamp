@@ -22,7 +22,7 @@
   
     surname="Yesildal"
   
-    concatString=$name + " " + $surname
+    concatString="${name} ${surname}"
   
     echo $concat
   
