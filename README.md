@@ -100,8 +100,8 @@
 
                 if len(sys.argv) > 1:
                         parameter = sys.argv[1]
-                else:
-                  print_fibo(int(parameter)) 
+          
+                print_fibo(int(parameter)) 
     
    python3 fibo.py 10
     </code>
