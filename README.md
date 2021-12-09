@@ -100,7 +100,7 @@
 
                 if len(sys.argv) > 1:
                         parameter = sys.argv[1]
-                        # The input may not contain only digits. Then, we need a try/expect block to handle error. 
+                        # The input may not contains only digits. Then, we need a try/expect block to handle error. 
           
                 print_fibo(int(parameter)) 
     
